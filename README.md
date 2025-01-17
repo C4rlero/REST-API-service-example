@@ -41,3 +41,18 @@ See the `pom.xml` for full details.
   Verify by running:
   ```bash
   java -version
+
+
+
+### Bibliographie
+
+- https://medium.com/@pratik.941/building-rest-api-using-spring-boot-a-comprehensive-guide-3e9b6d7a8951
+- https://restfulapi.net/http-status-codes/
+- https://spring.io/guides/tutorials/rest
+- https://medium.com/kth-distributed-systems/testing-microservices-in-spring-boot-applications-tools-and-techniques-b9c27d865f88
+- https://www.baeldung.com/java-dto-pattern
+- https://medium.com/@aedemirsen/spring-boot-global-exception-handler-842d7143cf2a#:~:text=When%20an%20exception%20occurs%2C%20the,error%20messages%20to%20the%20clients.
+- https://www.baeldung.com/global-error-handler-in-a-spring-rest-api
+- https://datatracker.ietf.org/doc/html/rfc7807
+- https://www.geeksforgeeks.org/returning-errors-using-problemdetail-in-spring-boot/
+
